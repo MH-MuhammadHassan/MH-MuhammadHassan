@@ -1,16 +1,35 @@
-# 👋 Hi, I'm Muhammad Hassan (MH)
+### 👋 Hi there! I'm Muhammad Hassan
 
-🎯 **Flutter Developer | Software Engineer | UI/UX Designer | Firebase & REST API Specialist**
+I'm a passionate **Flutter Developer** focused on building sleek, responsive, and high-performance **Android & iOS applications** using Flutter & Dart. I love translating ideas into functional, scalable mobile apps with clean code and intuitive UI.
 
-## 🚀 About Me
+---
 
-- 💻 Flutter developer with hands-on experience building modern, responsive mobile apps.
-- 🔧 Skilled in **Firebase**, **REST API integration**, **State Management (Provider)**, and clean architecture.
-- 🎨 Passionate about crafting intuitive **UI/UX** experiences.
-- 🌱 Currently interning at **CodeAlpha** — building real-world apps and strengthening backend integration skills.
-- 🤝 Enthusiastic about open-source contributions and collaborative projects.
+#### 🛠 Tech Stack
+- **Languages & Frameworks:** Flutter, Dart, Java (Basics)
+- **State Management:** Provider
+- **Architecture:** MVVM, Clean Architecture
+- **Databases:** Firebase, Hive, SQLite, SQL, Shared Preferences
+- **API Handling:** REST API Integration & Data Management
+- **UI/UX Design:** Figma, Adobe Illustrator
+- **Version Control:** Git, GitHub
+- **Testing & Tools:** Postman
+- **Web (Basics):** HTML, CSS, JavaScript
+- **Project Management:** Trello, Balsamiq
 
-## 🌐 Let's Connect
+---
 
-- 📎 [GitHub](https://github.com/MH-MuhammadHassan)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mh-muhammadhassan/)
+#### 📈 Currently Learning
+- Advanced Flutter Animations
+- Testing in Flutter
+- CI/CD for Mobile Apps
+
+---
+
+#### 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/mh-muhammadhassan/)  
+- 📧 Email: mhhassan.work@gmail.com  
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories and projects 🚀
