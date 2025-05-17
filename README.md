@@ -3,7 +3,7 @@
 
 ---
 
-🔹 I’m a **Flutter Mobile Application Developer** from Pakistan, currently pursuing a degree in Computer Science at **UBIT**.  
+🔹 I’m a **Flutter Mobile Application Developer** from Pakistan, currently pursuing a degree in Software Engineering at **UBIT**.  
 🔹 I build sleek, high-performance apps for **Android & iOS** using Flutter, following **MVVM & Clean Architecture** principles.  
 🔹 I love working with **Firebase**, integrating **REST APIs**, and creating seamless UI/UX experiences using **Figma** & **Adobe Illustrator**.  
 🔹 Currently exploring advanced animations, CI/CD pipelines for Flutter apps, and scalable app architectures.
